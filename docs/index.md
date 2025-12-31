@@ -9,6 +9,7 @@
 <h3><a href="showrecord.html">みんなの観劇記録</a></h3>
 
 
+
 <br>
 
 <!--
